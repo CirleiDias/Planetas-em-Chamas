@@ -1,18 +1,4 @@
-## **Traduzindo para um contexto mais específico**
-
-Para te ajudar a criar o README.md perfeito para o seu projeto, preciso de algumas informações adicionais:
-
-* **Qual o objetivo principal da sua aplicação além de buscar informações sobre queimadas?** Ela oferece estatísticas, visualizações de dados, ou permite que os usuários contribuam com informações?
-* **Quais tecnologias específicas você utilizou além de HTML, CSS e JavaScript?** Por exemplo, usou alguma biblioteca de gráficos, framework CSS ou gerenciador de pacotes?
-* **Quais são os próximos passos para o projeto?** Você planeja adicionar novos recursos, melhorar a performance ou integrar com outras plataformas?
-
-**Com base nessas informações, posso te oferecer um README.md ainda mais personalizado.**
-
-## **Exemplo de README.md Adaptado:**
-
-**Assumindo que sua aplicação permite visualizar dados em gráficos e que você utilizou o Chart.js:**
-
-```markdown
+Projeto criado na Alura- Imersão Dev com Google Gemini
 # Planeta em Chamas: Visualizando o Impacto das Queimadas
 
 **Descubra como os incêndios florestais estão afetando o nosso planeta!**
